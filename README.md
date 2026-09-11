@@ -75,7 +75,7 @@ All four branch routers are connected in a **full mesh of serial WAN links** (`1
 
 ## Looking Back — What I Would Do Differently
 
-This was one of my first networking projects. With what I have learned since (see my later project **enterprise-network-security-cisco**)<!-- TODO (Omar): after uploading, turn the project name into a link: https://github.com/YOUR-USERNAME/enterprise-network-security-cisco -->, I would harden this design:
+This was one of my first networking projects. With what I have learned since (see my later project [enterprise-network-security-cisco]([PASTE-YOUR-LINK-HERE](https://github.com/omAr-011k/enterprise-network-security-cisco))),, I would harden this design:
 
 | Current design | Improvement |
 |---|---|
